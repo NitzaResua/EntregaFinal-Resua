@@ -140,10 +140,7 @@ btnFinalizar.addEventListener("click", () => {
     text: `N° orden: ${Math.floor(
       Math.random() * 2000
     )} - El total de tu compra es $${total}`,
-    imageUrl: "../assets/img/icons/logo.jpg",
-    imageWidth: 300,
-    imageHeight: 300,
-    imageAlt: "Estilo Argentino",
+    icon: "success",
     showDenyButton: true,
     showCancelButton: false,
     confirmButtonText: "Finalizar",
