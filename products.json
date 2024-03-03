@@ -10,7 +10,7 @@
         "productoId": "2", 
         "productoNombre": "Alfajor chocolate",
         "productoImagen":"./assets/img/products/alfajores-chocolate.jpg", 
-        "productoCosto": 1000
+        "productoCosto": 1200
     },
     { 
         "productoId": "3", 
