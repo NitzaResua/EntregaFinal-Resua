@@ -1,0 +1,35 @@
+[
+    { 
+        "productoId": "1", 
+        "productoNombre": "Alfajor maicena", 
+        "productoImagen":"./assets/img/products/alfajores.jpg", 
+        "productoCosto": 1000
+    },
+
+    { 
+        "productoId": "2", 
+        "productoNombre": "Alfajor chocolate",
+        "productoImagen":"./assets/img/products/alfajores-chocolate.jpg", 
+        "productoCosto": 1000
+    },
+    { 
+        "productoId": "3", 
+        "productoNombre": "Alfajor", 
+        "productoImagen":"./assets/img/products/alfajores-ddl.jpg",
+        "productoCosto": 1000
+    },
+    { 
+        "productoId": "4", 
+        "productoNombre": "Rogel",
+        "productoImagen":"./assets/img/products/rogel.jpg",
+        "productoCosto": 3500
+    },
+    { 
+        "productoId": "5", 
+        "productoNombre": "Chocotorta", 
+        "productoImagen":"./assets/img/products/chocotorta.jpg",
+        "productoCosto": 3000
+    }
+
+
+]
