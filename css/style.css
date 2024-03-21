@@ -11,11 +11,11 @@
 
 
 * {
-    --rosa-color: #e96c7c;
+    --rosa-color: #eeb7d1;
     --black-color: #000405f3;
     --gris-color: #2e2d2dd8;
     --white-color: #fffcfc;
-    --rojo-color: #fa5760bd;
+    --rojo-color: #df98aabd;
     --transparente-color: #dbbabaab;
     box-sizing: border-box;
     margin: 1px;
@@ -33,6 +33,10 @@ body {
     background: url(../assets/img/background/fondo2.jpg);
     font-size: medium;
     color: var(--azul-color);
+}
+
+h1{
+    color:var(--white-color);
 }
 
 h3 {
@@ -157,12 +161,14 @@ h5 {
 .icon_small_redes_footer {
     width: 50px;
 }
+
 footer h4,
 footer h5 {
     margin-bottom: 20px;
     font-weight: 400;
     color: var(--white-color);
 }
+
 
 
 button {
